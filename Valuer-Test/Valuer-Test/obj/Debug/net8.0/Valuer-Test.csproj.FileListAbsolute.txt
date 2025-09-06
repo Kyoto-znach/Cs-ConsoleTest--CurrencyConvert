@@ -1,0 +1,14 @@
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\bin\Debug\net8.0\Valuer-Test.exe
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\bin\Debug\net8.0\Valuer-Test.deps.json
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\bin\Debug\net8.0\Valuer-Test.runtimeconfig.json
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\bin\Debug\net8.0\Valuer-Test.dll
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\bin\Debug\net8.0\Valuer-Test.pdb
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\obj\Debug\net8.0\Valuer-Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\obj\Debug\net8.0\Valuer-Test.AssemblyInfoInputs.cache
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\obj\Debug\net8.0\Valuer-Test.AssemblyInfo.cs
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\obj\Debug\net8.0\Valuer-Test.csproj.CoreCompileInputs.cache
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\obj\Debug\net8.0\Valuer-Test.dll
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\obj\Debug\net8.0\refint\Valuer-Test.dll
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\obj\Debug\net8.0\Valuer-Test.pdb
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\obj\Debug\net8.0\Valuer-Test.genruntimeconfig.cache
+E:\Documents\DOWNLOADS\TEST CPP\Valuer-Test\Valuer-Test\obj\Debug\net8.0\ref\Valuer-Test.dll
